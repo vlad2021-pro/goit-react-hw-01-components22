@@ -29,7 +29,7 @@ export const Profile = ({username, tag, location, avatar, followers, views, like
   </Stats >
 </Container >
   )
-}
+};
 
 
 Profile.propTypes = {
